@@ -1,0 +1,6 @@
+owner=426501619358892062
+prefix=$
+game=Emerald server
+stayinchannel=true
+songinstatus=false
+token=NjExMjczMTQ0OTY3MzY0NjQ4.XVRsrg.96bZ_-02FL-rv0CR43DD3x3uD0k
