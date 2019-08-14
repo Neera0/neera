@@ -3,4 +3,4 @@ prefix=$
 game=Emerald server
 stayinchannel=true
 songinstatus=false
-token=NjExMzA3MjQ1NjkwNDIxMjg1.XVR6gA.1h_oCgtGF9zY3fXT-Wiplw0M_Ig
+token=NjExMzA3MjQ1NjkwNDIxMjg1.XVR7uA.0ufBTB-asWiqnC9m3BpGqUIkxr0
